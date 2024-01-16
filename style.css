@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: darksalmon;
+}
+
+.judul {
+  text-align: center;
+  padding: 30px;
+}
+
+.foto {
+  padding-left: 130px;
+  padding-right: 130px;
+  padding-top: 20px;
+  display: block;
+  align-items: center;
+}
+
+.f1 {
+  width: 200px;
+  border: 2px;
+  border-radius: 25px;
+}
+.f2 {
+  width: 200px;
+  border: 2px;
+  border-radius: 25px;
+}
+.f3 {
+  width: 200px;
+  border: 2px;
+  border-radius: 25px;
+}
+
+.p {
+  padding-top: 60px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.f {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  margin: auto;
+}
+input {
+  width: 200px;
+  border: 2px;
+  
+}
+
+.f label {
+  display: inline-block;
+  width: 100px;
+}
+
